@@ -1,0 +1,8 @@
+ja:
+  reviews:
+    new:
+      title: レビュー登録
+      evaluation: 評価
+      body: 本文
+    form:
+      back: 戻る
